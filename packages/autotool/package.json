@@ -46,7 +46,7 @@
   },
   "dependencies": {
     "@swc/core": "^1.9.2",
-    "jotai": "2.10.2",
+    "jotai": "2.11.0",
     "typedoc": "^0.26.11",
     "unplugin": "^1.16.0"
   },
