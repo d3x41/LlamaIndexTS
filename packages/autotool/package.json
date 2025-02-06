@@ -47,7 +47,7 @@
   "dependencies": {
     "@swc/core": "^1.9.2",
     "jotai": "2.10.2",
-    "typedoc": "^0.26.11",
+    "typedoc": "^0.27.6",
     "unplugin": "^1.16.0"
   },
   "peerDependencies": {
